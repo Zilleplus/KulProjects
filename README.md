@@ -1,3 +1,5 @@
-# deterministische_integratietechnieken
+# KulProjects
 
-# stoch_integratie_technieken
+## Deterministische_integratietechnieken
+
+## Stoch_integratie_technieken
